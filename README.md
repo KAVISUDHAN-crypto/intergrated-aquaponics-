@@ -22,8 +22,11 @@ The system also displays real-time values on an LCD/OLED screen.
 - Relays + pumps
 - LCD (I²C 16x2/20x4) or OLED (SSD1306)
 - Jumper wires, breadboard
-**Usage**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+## Cloning the Repository
+
+To get started, clone this project to your Raspberry Pi or local machine:
+
+```bash
+git clone https://github.com/KAVISUDHAN-crypto/intergrated-aquaponics-.git
+cd intergrated-aquaponics-
+   
